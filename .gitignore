@@ -1,0 +1,11 @@
+__pycache__ # arquivos de cache de python
+
+*.* # arquivos temporários
+
+*.pyc # arquivos do python compilado
+
+.env #ambientes virtuais
+
+.idea
+
+template/*
